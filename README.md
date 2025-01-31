@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript , react , node.js**
 
-- 📫 How to reach me **cgiftin@gmail.com**
+- 📫 How to reach me via Mail **cgiftin@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UUGeIFx_a-rLBd4g229eQl-b1iBMzH3j/view?usp=sharing](https://drive.google.com/file/d/1UUGeIFx_a-rLBd4g229eQl-b1iBMzH3j/view?usp=sharing)
 
